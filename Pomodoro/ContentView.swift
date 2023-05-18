@@ -5,8 +5,6 @@
 //  Created by Misha Vrana on 07.02.2023.
 //
 
-import CoreHaptics
-import BackgroundTasks
 import UserNotifications
 import SwiftUI
 
