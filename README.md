@@ -19,5 +19,14 @@ The app can work in the background and send local notifications.
 
 ## Interface
 
-<img src="/Assets/Pomodoro_main.png">
-<img src="/Assets/Pomodoro_settings.png">
+<img
+  src="/Assets/Pomodoro_main.png"
+  alt="Alt text"
+  title="Optional title"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
+src="/Assets/Pomodoro_settings.png"
+alt="Alt text"
+title="Optional title"
+style="display: inline-block; margin: 0 auto; max-width: 300px">
